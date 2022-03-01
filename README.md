@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I'm CAMB, people also call me bb.
+# 🌱 I’m currently learning CSharp.
 
 <!--
 **CAMB-dev/CAMB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
