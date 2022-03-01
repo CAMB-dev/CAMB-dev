@@ -1,9 +1,4 @@
-### Hi there 👋
-# I'm CAMB, or you can call me bb.
- 🌱 I’m currently learning CSharp.\r\n
- I have no idea about how to learn and how to code any project.\r\n
- I'm such a salty fish.
-
+# Hi there 👋
 <!--
 **CAMB-dev/CAMB-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ I'm **CAMB**, or you can call me **bb**.  
+ 🌱 I’m currently learning CSharp.  
+ I have no idea about how to learn and how to code any project.  
+ I'm such a salty fish.
