@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![deiisu2-82b108f7-b700-4885-837b-ca81debbf78d](https://user-images.githubusercontent.com/64261617/187014048-f655c5dc-0d5d-47a6-9bb1-7fd19d2a5042.jpg)
-
-
  I'm **CAMB**, or you can call me **bb**.  
  🌱 I’m currently learning CSharp.  
  I have no idea about how to learn and how to code any project.  
