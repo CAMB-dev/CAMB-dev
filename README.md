@@ -20,9 +20,7 @@ Here are some ideas to get you started:
  
  
 ![CAMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAMB-dev&show_icons=true&theme=tokyonight)
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAMB-dev&langs_count=5&theme=tokyonight)
 
 
