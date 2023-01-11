@@ -17,3 +17,6 @@ Here are some ideas to get you started:
  🌱 I’m currently learning CSharp.  
  I have no idea about how to learn and how to code any project.  
  I'm such a salty fish.
+ 
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAMB-dev)](https://github.com/anuraghazra/github-readme-stats)
