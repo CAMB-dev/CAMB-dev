@@ -19,4 +19,19 @@ Here are some ideas to get you started:
  I'm such a salty fish.
  
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAMB-dev)](https://github.com/anuraghazra/github-readme-stats)
+![CAMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAMB-dev&show_icons=true&theme=tokyonight)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAMB-dev&langs_count=5&theme=tokyonight)
+
+
+❤ with:
+
+![CSharp](https://img.shields.io/badge/CSharp-%23512BD4?style=for-the-badge&logo=.net)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-964B00?style=for-the-badge&logo=openjdk)
