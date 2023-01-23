@@ -19,9 +19,9 @@ Here are some ideas to get you started:
  I'm such a salty fish.
  
  
-![CAMB's GitHub stats](https://github-readme-stats-vercel-ivory.vercel.app/api?username=CAMB-dev&show_icons=true&theme=tokyonight)
+![CAMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAMB-dev&show_icons=true&theme=tokyonight)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-vercel-ivory.vercel.app/api/top-langs/?username=CAMB-dev&langs_count=5&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAMB-dev&langs_count=5&theme=tokyonight)
 
 
 ❤ with:
