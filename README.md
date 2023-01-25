@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAMB-dev&langs_count=5&theme=tokyonight)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ❤ with:
 
 ![CSharp](https://img.shields.io/badge/CSharp-%23512BD4?style=for-the-badge&logo=.net)
