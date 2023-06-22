@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Caddyfile                14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 
