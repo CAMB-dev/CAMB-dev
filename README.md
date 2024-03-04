@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Go                       57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
