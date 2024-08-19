@@ -29,15 +29,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 35 mins       ████████████████████████░   95.27 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           2 hrs 43 mins       █████████████████████████   99.94 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
