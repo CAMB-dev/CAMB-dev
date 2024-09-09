@@ -25,6 +25,20 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       1 hr 17 mins        █████████████████████████   99.36 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+
+🔥 Editors: 
+Jetbrainsrider           1 hr 17 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
