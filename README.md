@@ -29,14 +29,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 17 mins        █████████████████████████   99.36 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
