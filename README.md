@@ -25,6 +25,19 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   3 hrs 42 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 42 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
