@@ -29,14 +29,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 mins              ████████████████████████░   97.30 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
