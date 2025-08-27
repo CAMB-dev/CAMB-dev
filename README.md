@@ -29,15 +29,13 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 29 mins        ███████████████░░░░░░░░░░   60.36 % 
-HTML                     58 mins             ██████████░░░░░░░░░░░░░░░   39.60 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
